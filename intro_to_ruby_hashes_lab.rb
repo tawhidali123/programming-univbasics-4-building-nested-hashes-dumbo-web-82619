@@ -1,6 +1,6 @@
 def base_hash
   base = {
-    rail: "flatiron"
+    :railroads
   }
 end
 
