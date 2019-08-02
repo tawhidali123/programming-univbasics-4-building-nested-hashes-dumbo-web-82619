@@ -1,6 +1,6 @@
 def base_hash
-  base = {
-    school: "f"
+   = {
+    school: "flatiron"
   }
 end
 
