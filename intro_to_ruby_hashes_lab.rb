@@ -1,5 +1,7 @@
 def base_hash
-  base = {}
+  base = {
+    school: 
+  }
 end
 
 def monopoly_with_second_tier
