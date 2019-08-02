@@ -48,7 +48,9 @@ def monopoly_with_fourth_tier
         reading_railroad: {
           "mortgage_value"=> "$100"
         },
-        pennsylvania_railroad: {},
+        pennsylvania_railroad: {
+          "mortgage_value"=> "$100"
+        },
         b_and_o_railroad: {},
         shortline_railroad: {}
       }
