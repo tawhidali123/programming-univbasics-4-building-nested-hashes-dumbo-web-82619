@@ -24,7 +24,7 @@ def monopoly_with_third_tier
       },
       
       names: {
-        first: "john",
+        reading_railroad: {},
         second: "bob",
         third: "billy",
         fourth: "sarah"
