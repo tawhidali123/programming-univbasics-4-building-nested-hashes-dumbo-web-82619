@@ -6,7 +6,9 @@ end
 
 def monopoly_with_second_tier
   base = {
-    railroads: {}
+    railroads: {
+      pieces: 1
+    }
   }
 end
 
