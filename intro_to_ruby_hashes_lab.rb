@@ -22,7 +22,10 @@ def monopoly_with_third_tier
         third: "300",
         fourth: "400"
       },
-      names: "john"
+      
+      names: {
+        
+      }
     }
   }
 end
