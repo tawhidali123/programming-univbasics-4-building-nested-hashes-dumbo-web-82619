@@ -24,7 +24,7 @@ def monopoly_with_third_tier
       },
       
       names: {
-        first: "john",
+        one_piece_owned: 25,
         second: "bob",
         third: "billy",
         fourth: "sarah"
